@@ -78,7 +78,7 @@ $messageForm.addEventListener('submit', (e) => {
             return console.log(error)
         }
 
-        console.log('Message delivered!')
+        console.log('Message delivered! d')
     })
 })
 
