@@ -15,11 +15,8 @@ A real-time chat application built with **Node.js**, **Express**, **Socket.IO**,
 ---
 
 ## ⚙️ Setup Instructions
-
-### 1. Clone the Repository
-
 ```bash
-https://github.com/zionariunbold/node-chat-app.git
+1. https://github.com/zionariunbold/node-chat-app.git
 cd chat-app
 
 2. Install Dependencies
