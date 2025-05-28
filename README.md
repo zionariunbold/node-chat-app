@@ -4,36 +4,6 @@ A real-time chat application built with **Node.js**, **Express**, **Socket.IO**,
 
 ---
 
-## 📁 Project Structure
-
-CHAT-APP/
-├── node_modules/
-├── public/
-│ ├── css/
-│ │ ├── styles.css
-│ │ └── styles.min.css
-│ ├── img/
-│ │ └── favicon.png
-│ ├── js/
-│ │ └── chat.js
-│ ├── chat.html
-│ └── index.html
-├── src/
-│ ├── utils/
-│ │ ├── messages.js
-│ │ └── users.js
-│ └── index.js
-├── .gitignore
-├── package.json
-├── package-lock.json
-└── README.md
-
-yaml
-Copy
-Edit
-
----
-
 ## 🚀 Features
 
 - Real-time communication with Socket.IO
