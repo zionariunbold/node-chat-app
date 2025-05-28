@@ -26,9 +26,8 @@ cd chat-app
 npm install
 
 3. Run the Server
-node src/index.js
-Or if using nodemon:
-npx nodemon src/index.js
+npm run dev
+npm run start
 
 4. Open in Browser
 Go to:
