@@ -21,37 +21,23 @@ A real-time chat application built with **Node.js**, **Express**, **Socket.IO**,
 ```bash
 git clone https://github.com/your-username/chat-app.git
 cd chat-app
+
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
+
 3. Run the Server
-bash
-Copy
-Edit
 node src/index.js
 Or if using nodemon:
-
-bash
-Copy
-Edit
 npx nodemon src/index.js
+
 4. Open in Browser
 Go to:
 👉 http://localhost:3000
 
-PORT=3000
-Update your index.js to read from process.env.PORT.
-
 📦 Dependencies
 express
-
 socket.io
 
-📜 License
-This project is open-source under the MIT License.
-
 🙌 Credits
-Created by Your Name
+Created by L.Ariunbold
 Inspired by Socket.IO examples and real-time web app patterns.
